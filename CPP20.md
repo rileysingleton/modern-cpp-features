@@ -1,4 +1,4 @@
-# C++20
+# C++20 :)
 
 ## Overview
 Many of these descriptions and examples are taken from various resources (see [Acknowledgements](#acknowledgements) section) and summarized in my own words.
